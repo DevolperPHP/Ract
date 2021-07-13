@@ -1,0 +1,10 @@
+To install react
+You should download npm at first 
+1- Open CMD
+2- do "npm install -g create-react-app"
+
+Then Create your first react app
+1- Open CND
+2- do "npx create-react-app myfirstreact"
+
+and wait about 2 min
